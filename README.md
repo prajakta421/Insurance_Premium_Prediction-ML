@@ -45,7 +45,7 @@ This project is beginner-friendly and suitable for academic submission and resum
 ##  Technologies Used
 
 - Python
-- Jupyter Notebook
+- Google Colab
 - Pandas
 - NumPy
 - Scikit-learn
